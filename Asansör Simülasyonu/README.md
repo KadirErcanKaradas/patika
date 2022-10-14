@@ -1,5 +1,5 @@
 # Asansor-Similasyonu
-![alt text](https://github.com/KadirErcanKaradas/patika/blob/main/Asansör%20Simülasyonu/Asansör.png 
+![alt text](https://github.com/KadirErcanKaradas/patika/blob/main/Asansör%20Simülasyonu/Asansör.png)
 
 
 
