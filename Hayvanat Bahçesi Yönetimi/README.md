@@ -1,5 +1,5 @@
 # Hayvanat-Bahçesi-Yönetimi
-![alt text](https://github.com/KadirErcanKaradas/patika/blob/main/Üniversite%20Yönetim%20Sistemi/1.png) 
+![alt text](https://github.com/KadirErcanKaradas/patika/blob/main/Hayvanat%20Bahçesi%20Yönetimi/Animal.png) 
 
 
 
