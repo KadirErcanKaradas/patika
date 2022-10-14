@@ -21,4 +21,4 @@
 
 Big-O gösterimini yazınız.
     O(n*(logn))
-
+[https://www.patika.dev]
